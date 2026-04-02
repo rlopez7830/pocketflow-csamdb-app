@@ -90,3 +90,12 @@ coverage/
 
 # Optional REPL history
 .node_repl_history 
+# Python virtual environment
+.venv/
+venv/
+
+# Cloned reference repos
+pysqlpf_repo/
+
+# Diagnostic scripts
+test_pyuber_connection.py
